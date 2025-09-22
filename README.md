@@ -28,7 +28,7 @@ A machine learning project analyzing the relationship between study hours and ex
 [Tree structure seperti di atas]
 
 ## 👨‍💻 Author
-[Your Name] - Data Science Enthusiast
+Abbas - ML/Data Analyst Anthusiast
 
 ## 🙏 Acknowledgments
 - Dataset source: [Sumber data]
