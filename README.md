@@ -31,5 +31,5 @@ A machine learning project analyzing the relationship between study hours and ex
 Abbas - ML/Data Analyst Anthusiast
 
 ## 🙏 Acknowledgments
-- Dataset source: [Sumber data]
+- Dataset source: (https://drive.google.com/file/d/1Q76CmpyzyfRvFP7QMo8B_Bv1_FWjq3Y_/view?usp=sharing)
 - Inspired by: @Dibimbing.id data science curriculum
